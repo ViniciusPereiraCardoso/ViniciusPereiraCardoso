@@ -49,7 +49,9 @@
 
 ###
 
-<img align="right" height="200" src="![Image](https://github.com/user-attachments/assets/9eb224e2-f8eb-453c-b472-53679b1b4041)"  />
+<div align="center">
+  <img height="200" src="https://i.im.ge/2025/03/15/paHDQ4.homem-de-preto.gif"  />
+</div>
 
 ###
 
