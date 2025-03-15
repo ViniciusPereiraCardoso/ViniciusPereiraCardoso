@@ -32,13 +32,13 @@
 ###
 
 <div align="left">
-  <a href="vini_pcs" target="_blank">
+  <a href="https://www.instagram.com/vini_pcs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="vinicius.pereira@ges.inatel.br" target="_blank">
+  <a href="mailto:vinicius.pereira@ges.inatel.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="+55 (35) 9 9803-4706" target="_blank">
+  <a href="http://wa.me/5535998034706" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -49,8 +49,14 @@
 
 ###
 
-<img align="center" src="https://profile-counter.glitch.me/ViniciusPereiraCardoso/count.svg?"  />
+<div align="center">
+  <img height="200" src="![Image](https://github.com/user-attachments/assets/c8c9c6c1-f8fc-4d33-9694-c482b3460882)"  />
+</div>
 
-![Image](https://github.com/user-attachments/assets/c8c9c6c1-f8fc-4d33-9694-c482b3460882)
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ViniciusPereiraCardoso/count.svg?"  />
+</div>
 
 ###
