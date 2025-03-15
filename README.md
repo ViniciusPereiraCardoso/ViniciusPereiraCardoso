@@ -49,12 +49,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.im.ge/2025/03/15/paHDQ4.homem-de-preto.gif"  />
-</div>
+<img align="center" src="https://profile-counter.glitch.me/ViniciusPereiraCardoso/count.svg?"  />
 
-###
-
-<img align="left" src="https://profile-counter.glitch.me/ViniciusPereiraCardoso/count.svg?"  />
+![Image](https://github.com/user-attachments/assets/c8c9c6c1-f8fc-4d33-9694-c482b3460882)
 
 ###
