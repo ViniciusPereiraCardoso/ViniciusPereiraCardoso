@@ -49,9 +49,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.im.ge/2025/03/15/paHlQ6.gif.gif"  />
-</div>
+<img align="right" height="200" src="https://i.im.ge/2025/03/15/paHlQ6.gif.gif"  />
 
 ###
 
