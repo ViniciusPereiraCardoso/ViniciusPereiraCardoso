@@ -46,12 +46,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://im.ge/i/gif.paHlQ6"  />
+  <img height="200" src="https://i.im.ge/2025/03/15/paHlQ6.gif.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ViniciusPereiraCardoso/ViniciusPereiraCardoso/output/snake.svg" alt="Snake animation" />
 
