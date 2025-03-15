@@ -45,12 +45,18 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ViniciusPereiraCardoso/ViniciusPereiraCardoso/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img height="200" src="https://i.im.ge/2025/03/15/paHlQ6.gif.gif"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ViniciusPereiraCardoso/ViniciusPereiraCardoso/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ViniciusPereiraCardoso/count.svg?"  />
+</div>
 
 ###
